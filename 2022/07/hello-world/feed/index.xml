@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="https://magicmeat.in/2022/07/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>https://magicmeat.in/2022/07/hello-world/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sat, 30 Jul 2022 14:45:10 +0000</lastBuildDate>
 	<sy:updatePeriod>
