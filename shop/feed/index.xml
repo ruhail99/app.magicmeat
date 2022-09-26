@@ -15,16 +15,16 @@
 	<atom:link href="https://magicmeat.in/shop/feed/" rel="self" type="application/rss+xml" />
 	<link>https://magicmeat.in/</link>
 	<description>online grocery store</description>
-	<lastBuildDate>Mon, 15 Aug 2022 10:48:45 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 21 Sep 2022 06:11:37 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
 
 <image>
-	<url>https://secureservercdn.net/160.153.137.91/8pa.299.myftpupload.com/wp-content/uploads/2022/07/cropped-icon-32x32.jpg</url>
+	<url>https://i0.wp.com/magicmeat.in/wp-content/uploads/2022/07/cropped-icon.jpg?fit=32%2C32&#038;ssl=1</url>
 	<title>Products &#8211; MagicMeat Baikunthpur</title>
 	<link>https://magicmeat.in/</link>
 	<width>32</width>
@@ -202,3 +202,5 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">8730</post-id>	</item>
 	</channel>
 </rss>
+
+<!-- plugin=object-cache-pro client=phpredis metric#hits=4693 metric#misses=55 metric#hit-ratio=98.8 metric#bytes=546173 metric#prefetches= metric#store-reads=198 metric#store-writes=43 metric#store-hits=173 metric#store-misses=44 metric#sql-queries=28 metric#ms-total=311.87 metric#ms-cache=14.75 metric#ms-cache-median=0.04 metric#ms-cache-ratio=4.5 -->

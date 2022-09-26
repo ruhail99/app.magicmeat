@@ -21,10 +21,10 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
 
 <image>
-	<url>https://secureservercdn.net/160.153.137.91/8pa.299.myftpupload.com/wp-content/uploads/2022/07/cropped-icon-32x32.jpg</url>
+	<url>https://i0.wp.com/magicmeat.in/wp-content/uploads/2022/07/cropped-icon.jpg?fit=32%2C32&#038;ssl=1</url>
 	<title>magicmeat &#8211; MagicMeat Baikunthpur</title>
 	<link>https://magicmeat.in/</link>
 	<width>32</width>
@@ -49,3 +49,5 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">1</post-id>	</item>
 	</channel>
 </rss>
+
+<!-- plugin=object-cache-pro client=phpredis metric#hits=2912 metric#misses=13 metric#hit-ratio=99.6 metric#bytes=492447 metric#prefetches= metric#store-reads=51 metric#store-writes=3 metric#store-hits=49 metric#store-misses=2 metric#sql-queries=8 metric#ms-total=250.05 metric#ms-cache=6.88 metric#ms-cache-median=0.05 metric#ms-cache-ratio=2.7 -->
