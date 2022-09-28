@@ -202,5 +202,3 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">8730</post-id>	</item>
 	</channel>
 </rss>
-
-<!-- plugin=object-cache-pro client=phpredis metric#hits=4693 metric#misses=55 metric#hit-ratio=98.8 metric#bytes=546173 metric#prefetches= metric#store-reads=198 metric#store-writes=43 metric#store-hits=173 metric#store-misses=44 metric#sql-queries=28 metric#ms-total=311.87 metric#ms-cache=14.75 metric#ms-cache-median=0.04 metric#ms-cache-ratio=4.5 -->

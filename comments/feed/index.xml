@@ -22,5 +22,3 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 </channel>
 </rss>
-
-<!-- plugin=object-cache-pro client=phpredis metric#hits=2741 metric#misses=15 metric#hit-ratio=99.5 metric#bytes=486908 metric#prefetches= metric#store-reads=45 metric#store-writes=5 metric#store-hits=41 metric#store-misses=4 metric#sql-queries=9 metric#ms-total=255.65 metric#ms-cache=7.75 metric#ms-cache-median=0.05 metric#ms-cache-ratio=2.9 -->

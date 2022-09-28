@@ -49,5 +49,3 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">1</post-id>	</item>
 	</channel>
 </rss>
-
-<!-- plugin=object-cache-pro client=phpredis metric#hits=2936 metric#misses=13 metric#hit-ratio=99.6 metric#bytes=493408 metric#prefetches= metric#store-reads=55 metric#store-writes=3 metric#store-hits=53 metric#store-misses=2 metric#sql-queries=8 metric#ms-total=236.70 metric#ms-cache=5.81 metric#ms-cache-median=0.05 metric#ms-cache-ratio=2.4 -->
