@@ -12,7 +12,7 @@
 
 <channel>
 	<title>Products &#8211; MagicMeat Baikunthpur</title>
-	<atom:link href="https://magicmeat.in/shop/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://magicmeat.in/shop-desk/feed/" rel="self" type="application/rss+xml" />
 	<link>https://magicmeat.in/</link>
 	<description>online grocery store</description>
 	<lastBuildDate>Wed, 21 Sep 2022 06:11:37 +0000</lastBuildDate>
