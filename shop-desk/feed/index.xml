@@ -15,7 +15,7 @@
 	<atom:link href="https://magicmeat.in/shop-desk/feed/" rel="self" type="application/rss+xml" />
 	<link>https://magicmeat.in/</link>
 	<description>online grocery store</description>
-	<lastBuildDate>Wed, 21 Sep 2022 06:11:37 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 14 Oct 2022 03:38:52 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,9 +31,92 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">193851784</site>	<item>
+		<title>Beans &#8211; Cowpea (berbati)</title>
+		<link>https://magicmeat.in/product/beans-cowpea-berbati/</link>
+		
+		<dc:creator><![CDATA[magicmeat]]></dc:creator>
+		<pubDate>Thu, 13 Oct 2022 09:52:46 +0000</pubDate>
+				<guid isPermaLink="false">https://magicmeat.in/?post_type=product&#038;p=8937</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">8937</post-id>	</item>
+		<item>
+		<title>Capsicum(simla mirch)</title>
+		<link>https://magicmeat.in/product/capsicumsimla-mirch/</link>
+		
+		<dc:creator><![CDATA[magicmeat]]></dc:creator>
+		<pubDate>Thu, 13 Oct 2022 07:44:34 +0000</pubDate>
+				<guid isPermaLink="false">https://magicmeat.in/?post_type=product&#038;p=8931</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">8931</post-id>	</item>
+		<item>
+		<title>tomato(tamater)</title>
+		<link>https://magicmeat.in/product/tomatotamater/</link>
+		
+		<dc:creator><![CDATA[magicmeat]]></dc:creator>
+		<pubDate>Wed, 12 Oct 2022 18:32:25 +0000</pubDate>
+				<guid isPermaLink="false">https://magicmeat.in/?post_type=product&#038;p=8923</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">8923</post-id>	</item>
+		<item>
+		<title>Cucumber(khira)</title>
+		<link>https://magicmeat.in/product/cucumberkhira/</link>
+		
+		<dc:creator><![CDATA[magicmeat]]></dc:creator>
+		<pubDate>Wed, 12 Oct 2022 06:29:55 +0000</pubDate>
+				<guid isPermaLink="false">https://magicmeat.in/?post_type=product&#038;p=8907</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">8907</post-id>	</item>
+		<item>
+		<title>Freshy Pointed Gourd/Parmal</title>
+		<link>https://magicmeat.in/product/freshy-pointed-gourd-parmal/</link>
+		
+		<dc:creator><![CDATA[magicmeat]]></dc:creator>
+		<pubDate>Sun, 09 Oct 2022 08:17:51 +0000</pubDate>
+				<guid isPermaLink="false">https://magicmeat.in/?post_type=product&#038;p=8901</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">8901</post-id>	</item>
+		<item>
+		<title>radish(muli)</title>
+		<link>https://magicmeat.in/product/radishmuli/</link>
+		
+		<dc:creator><![CDATA[magicmeat]]></dc:creator>
+		<pubDate>Mon, 03 Oct 2022 08:11:31 +0000</pubDate>
+				<guid isPermaLink="false">https://magicmeat.in/?post_type=product&#038;p=8885</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">8885</post-id>	</item>
+		<item>
 		<title>Chicken Boneless (Cubes)</title>
 		<link>https://magicmeat.in/product/chicken-boneless-cubes/</link>
-					<comments>https://magicmeat.in/product/chicken-boneless-cubes/#respond</comments>
 		
 		<dc:creator><![CDATA[magicmeat]]></dc:creator>
 		<pubDate>Mon, 15 Aug 2022 10:46:02 +0000</pubDate>
@@ -42,15 +125,12 @@
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>https://magicmeat.in/product/chicken-boneless-cubes/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">8789</post-id>	</item>
 		<item>
 		<title>Chicken Curry Cut (Skin Off)</title>
 		<link>https://magicmeat.in/product/chicken-curry-cut-skin-off/</link>
-					<comments>https://magicmeat.in/product/chicken-curry-cut-skin-off/#respond</comments>
 		
 		<dc:creator><![CDATA[magicmeat]]></dc:creator>
 		<pubDate>Mon, 15 Aug 2022 10:38:20 +0000</pubDate>
@@ -59,15 +139,12 @@
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>https://magicmeat.in/product/chicken-curry-cut-skin-off/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">8784</post-id>	</item>
 		<item>
 		<title>Chicken Breast Boneless, pack of 2</title>
 		<link>https://magicmeat.in/product/chicken-breast-boneless-pack-of-2/</link>
-					<comments>https://magicmeat.in/product/chicken-breast-boneless-pack-of-2/#respond</comments>
 		
 		<dc:creator><![CDATA[magicmeat]]></dc:creator>
 		<pubDate>Mon, 15 Aug 2022 10:33:59 +0000</pubDate>
@@ -76,15 +153,12 @@
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>https://magicmeat.in/product/chicken-breast-boneless-pack-of-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">8782</post-id>	</item>
 		<item>
 		<title>Chicken Curry Cut (Skin On)</title>
 		<link>https://magicmeat.in/product/chicken-curry-cut-skin-on/</link>
-					<comments>https://magicmeat.in/product/chicken-curry-cut-skin-on/#respond</comments>
 		
 		<dc:creator><![CDATA[magicmeat]]></dc:creator>
 		<pubDate>Fri, 12 Aug 2022 05:37:46 +0000</pubDate>
@@ -93,112 +167,8 @@
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>https://magicmeat.in/product/chicken-curry-cut-skin-on/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">8761</post-id>	</item>
-		<item>
-		<title>Goat kapura</title>
-		<link>https://magicmeat.in/product/goat-kapura/</link>
-					<comments>https://magicmeat.in/product/goat-kapura/#respond</comments>
-		
-		<dc:creator><![CDATA[magicmeat]]></dc:creator>
-		<pubDate>Fri, 12 Aug 2022 05:30:02 +0000</pubDate>
-				<guid isPermaLink="false">https://magicmeat.in/?post_type=product&#038;p=8759</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>https://magicmeat.in/product/goat-kapura/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">8759</post-id>	</item>
-		<item>
-		<title>Mutton Rib Chops</title>
-		<link>https://magicmeat.in/product/mutton-rib-chops/</link>
-					<comments>https://magicmeat.in/product/mutton-rib-chops/#respond</comments>
-		
-		<dc:creator><![CDATA[magicmeat]]></dc:creator>
-		<pubDate>Fri, 12 Aug 2022 05:25:38 +0000</pubDate>
-				<guid isPermaLink="false">https://magicmeat.in/?post_type=product&#038;p=8754</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>https://magicmeat.in/product/mutton-rib-chops/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">8754</post-id>	</item>
-		<item>
-		<title>Mutton Boneless</title>
-		<link>https://magicmeat.in/product/mutton-boneless/</link>
-					<comments>https://magicmeat.in/product/mutton-boneless/#respond</comments>
-		
-		<dc:creator><![CDATA[magicmeat]]></dc:creator>
-		<pubDate>Fri, 12 Aug 2022 05:19:06 +0000</pubDate>
-				<guid isPermaLink="false">https://magicmeat.in/?post_type=product&#038;p=8749</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>https://magicmeat.in/product/mutton-boneless/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">8749</post-id>	</item>
-		<item>
-		<title>Goat Curry Cut</title>
-		<link>https://magicmeat.in/product/goat-curry-cut/</link>
-					<comments>https://magicmeat.in/product/goat-curry-cut/#respond</comments>
-		
-		<dc:creator><![CDATA[magicmeat]]></dc:creator>
-		<pubDate>Fri, 12 Aug 2022 05:10:35 +0000</pubDate>
-				<guid isPermaLink="false">https://magicmeat.in/?post_type=product&#038;p=8744</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>https://magicmeat.in/product/goat-curry-cut/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">8744</post-id>	</item>
-		<item>
-		<title>mutton keema</title>
-		<link>https://magicmeat.in/product/mutton-keema/</link>
-					<comments>https://magicmeat.in/product/mutton-keema/#respond</comments>
-		
-		<dc:creator><![CDATA[magicmeat]]></dc:creator>
-		<pubDate>Thu, 11 Aug 2022 09:05:07 +0000</pubDate>
-				<guid isPermaLink="false">https://magicmeat.in/?post_type=product&#038;p=8734</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>https://magicmeat.in/product/mutton-keema/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">8734</post-id>	</item>
-		<item>
-		<title>red potato</title>
-		<link>https://magicmeat.in/product/red-potato/</link>
-					<comments>https://magicmeat.in/product/red-potato/#respond</comments>
-		
-		<dc:creator><![CDATA[magicmeat]]></dc:creator>
-		<pubDate>Thu, 11 Aug 2022 05:25:04 +0000</pubDate>
-				<guid isPermaLink="false">https://magicmeat.in/?post_type=product&#038;p=8730</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>https://magicmeat.in/product/red-potato/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">8730</post-id>	</item>
 	</channel>
 </rss>
